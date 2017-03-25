@@ -3,7 +3,7 @@
   <head lang="es">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <title>Aparcabicicletas - Sevilla</title>
+    <title>Estaciones SEVICI - Sevilla</title>
     <style>
       body, html{
         height: 100%;
@@ -25,12 +25,21 @@
       "init_lat": 37.3887,
       "init_lng": -5.9945,
       "capa_geojson": [
+        {"url": "https://raw.githubusercontent.com/datourbano/sevilla/master/movilidad/bici/servicios/41091_estaciones_sevici.geojson",
+         "icono": {
+            "iconUrl": "https://raw.githubusercontent.com/datourbano/simbologia/master/movilidad/bici/servicios/base_bici_0.png",
+            "iconSize": [26,30],
+            "iconAnchor": [13,30]
+         }
+        },
         {"url": "https://raw.githubusercontent.com/datourbano/sevilla/master/movilidad/bici/vialidad/41091_aparcabicicletas.geojson",
          "icono": {
             "iconUrl": "https://raw.githubusercontent.com/datourbano/simbologia/master/movilidad/bici/vialidad/aparcabici_0.png",
             "iconSize": [26,30],
             "iconAnchor": [13,30]
          }
+        },
+        {"url": "https://raw.githubusercontent.com/datourbano/sevilla/master/movilidad/bici/vialidad/41091_vias_ciclistas.geojson",
         }
       ],
       "cluster_markers": 1,
