@@ -1,6 +1,6 @@
 # DATO URBANO: Sevilla
 * ### **MOVILIDAD**
-  - #### [**BICI**](https://datourbano.github.io/sevilla/movilidad/bici/41091_movilidad_bici)
+  - #### **BICI** ([mapa](https://datourbano.github.io/sevilla/movilidad/bici/41091_movilidad_bici))
     - **Servicios**
       1. [Estaciones SEVICI - Sevilla](https://github.com/datourbano/sevilla/blob/master/movilidad/bici/servicios/41091_estaciones_sevici.md)
     - **Vialidad**
