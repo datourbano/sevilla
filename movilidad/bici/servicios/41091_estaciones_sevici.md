@@ -4,8 +4,8 @@
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/origen_18.png) Origen: [Portal de Datos Abiertos del Ayuntamiento de Sevilla](http://datosabiertos.sevilla.org/dataset/?id=estaciones-sevici)
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/calendario_18.png) Fecha: 24-03-2017
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/carpeta_18.png) Repositorio: https://github.com/datourbano/sevilla/tree/master/movilidad/bici/servicios
-* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/enlace_18.png) LinkedData: [41091_ estaciones_sevici.geojson](https://raw.githubusercontent.com/datourbano/sevilla/master/movilidad/bici/servicios/41091_ estaciones_sevici.geojson)
-* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/mapa_18.png) Visualización: [Estaciones SEVICI - Sevilla](https://datourbano.github.io/sevilla/movilidad/bici/servicios/41091_ estaciones_sevici)
+* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/enlace_18.png) LinkedData: [41091_ estaciones_sevici.geojson](https://raw.githubusercontent.com/datourbano/sevilla/master/movilidad/bici/servicios/41091_estaciones_sevici.geojson)
+* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/mapa_18.png) Visualización: [Estaciones SEVICI - Sevilla](https://datourbano.github.io/sevilla/movilidad/bici/servicios/41091_estaciones_sevici)
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/notas_18.png) Notas:
 
   [Página web de SEVICI](http://www.sevici.es/)
