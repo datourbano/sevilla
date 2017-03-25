@@ -5,7 +5,7 @@
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/calendario_18.png) Fecha: 24-03-2017
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/carpeta_18.png) Repositorio: https://github.com/datourbano/sevilla/tree/master/movilidad/bici/vialidad
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/enlace_18.png) LinkedData: [41091_vias_ciclistas.geojson](https://raw.githubusercontent.com/datourbano/sevilla/master/movilidad/bici/vialidad/41091_vias_ciclistas.geojson)
-* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/mapa_18.png) Visualización: [Vías ciclistas - Sevilla](https://datourbano.github.io/sevilla/movilidad/bici/servicios/41091_vias_ciclistas)
+* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/mapa_18.png) Visualización: [Vías ciclistas - Sevilla](https://datourbano.github.io/sevilla/movilidad/bici/vialidad/41091_vias_ciclistas)
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/notas_18.png) Notas:
 
   (Portal de Datos Abiertos del Ayuntamiento de Sevilla)
